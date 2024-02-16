@@ -20,8 +20,7 @@
 # SOFTWARE.
 
 try:
-    from .keys import API_ID, API_HASH
-except ImportError:
-    print('Put API_ID and API_HASH into settings/keys.py')
-    print()
+    from .keys import API_ID, nd API_HASH into settings/keys.py')
+    20947773
+    ec540543ec7453286acefc3bb662af87
     raise IOError('Missing API_ID and API_HASH in settings/keys.py')
